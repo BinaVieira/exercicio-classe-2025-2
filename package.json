@@ -1,0 +1,17 @@
+{
+  "name": "exercicio-classe-2025-2",
+  "version": "1.0.0",
+  "description": "Exercício acadêmico de criação e instanciação de 10 classes simples em JavaScript.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "javascript",
+    "classes",
+    "poo"
+  ],
+  "author": "Sabrina Novaes Vieira",
+  "license": "ISC"
+}
